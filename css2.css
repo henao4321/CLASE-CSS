@@ -1,0 +1,35 @@
+.border1 {
+border-style: solid dotted dashed double;
+
+}
+
+.border2 {
+
+  border-style: solid;;
+  border-width: 5px;
+  border-color: blue;
+  border-top-style: dashed;
+  border-right-style: solid;
+  border-bottom-style: inset;
+  border-left-style: double;
+  border-style: dashed;
+
+}
+
+.border3 {
+  border: 5px solid red;
+  border-radius: 5px
+
+}
+
+.margen1 {
+
+  margin: 5px 20px 80px 100px
+
+}
+
+.Margen-auto {
+  margin: auto;
+  width: 50px;
+  border: 1px solid red;
+}
